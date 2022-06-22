@@ -2,7 +2,7 @@
     "name": "mms-app",
     "version": "0.0.1",
     "dependencies": {
-        "async": "^3.1.0",
+        "async": "^3.2.2",
         "body-parser": "^1.19.0",
         "cassandra-driver": "^4.3.1",
         "express": "^4.17.1",
